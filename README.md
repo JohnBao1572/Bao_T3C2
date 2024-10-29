@@ -23,8 +23,6 @@
 ### [Website E-commerce FrontEnd-Client](https://github.com/JohnBao1572/FEClient_KB.git)</br>
 ### [Website E-commerce BackEnd-Server](https://github.com/JohnBao1572/BE_KB.git)</br>
 ### [Website quản lý cửa hàng tạp hóa](https://github.com/LeamnLeamn/QLCHTH.git) </br>
-### [App quản lí Cafe BackEnd](https://github.com/johnnyhoang/coffee_app_api.git) </br>
-### [App quản lí Cafe FrontEnd](https://github.com/johnnyhoang/coffee_app_ui.git) </br>
 ## About Project 📬
 * Mục Tiêu Dự Án
 Dự án web quản lý thư viện nhằm phát triển một ứng dụng trực tuyến giúp người dùng dễ dàng quản lý các hoạt động liên quan đến sách, bao gồm việc tìm kiếm, mượn, trả sách và theo dõi thông tin thư viện.
